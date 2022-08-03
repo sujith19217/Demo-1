@@ -29,9 +29,9 @@ Phone Number:
 Date of Birth:
 <input type="date" email="date of birth" size="15" maxlength="30"<br><br>
 <input type="submit" value="submit"
-<h1 style="background-color:orange;">Thank You</h1>
 </body>
 </html>
+<h1 style="background-color:orange;">Thank You</h1>
 
 
 
