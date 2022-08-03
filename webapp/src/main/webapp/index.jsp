@@ -1,4 +1,4 @@
-
+<h1 style="background-color:DodgerBlue;color:white;">Welcome to the TATA ELXSI world</h1>
 <html>
 <head>
 <title>HTML FORM
@@ -31,7 +31,7 @@ Date of Birth:
 <input type="submit" value="submit
 </body>
 </html>
-
+<h1 style="background-color:orange;">Thank You</h1>
 
 
 
