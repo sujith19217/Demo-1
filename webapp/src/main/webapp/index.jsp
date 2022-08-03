@@ -31,7 +31,7 @@ Date of Birth:
 <input type="submit" value="submit"
 </body>
 </html>
-<h1 style="background-color:orange;">Thank You</h1>
+<h1 style="background-color:orange;">                              Thank You</h1>
 
 
 
