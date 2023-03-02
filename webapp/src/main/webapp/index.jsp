@@ -22,8 +22,8 @@ Email:
 </body>
 </html>
 Gender:
-<input type="text" radio="gender" size="15" maxlength="10" value="">Male
-<input type="text" radio="gender" size="15" maxlength="10" value="">Female
+<input type="text" radio="gender" size="15" maxlength="10" value="male">Male
+<input type="text" radio="gender" size="15" maxlength="10" value="female">Female
 Phone Number:
 <input type="text" email="text" size="15" maxlength="50" placeholder="Phone Number"<br><br>
 Date of Birth:
